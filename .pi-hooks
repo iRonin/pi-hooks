@@ -1,0 +1,2 @@
+# Allow all git commands in Pi-Agent directory
+allow ^\s*git\s
